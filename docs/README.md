@@ -21,12 +21,12 @@ footer: MIT Licensed | Copyright © 2020-present Dani Roman
     </div>
   <div class="feature">
     <h2>Updated</h2>
-    <p>This documentation will be updated by [Dani Roman](https://danielromanmartinez.com/). NOTE: Actually this documentation is in beta.</p>
+    <p>This documentation will be updated by <a href="https://danielromanmartinez.com/" target="_blank" title="Dani Roman">Dani Roman</a>. NOTE: Actually this documentation is in beta.</p>
   </div>  
 </div>
 
 ::: warning NOTE
-This is a beta documentation, probably you will find some grammar errors and so on. If you find something wrong, email me: [roman.martinez.daniel@gmail.com](roman.martinez.daniel@gmail.com) or just make a pull request.
+This is a beta documentation, probably you will find some grammar errors and so on. If you find something wrong, email me: [roman.martinez.daniel@gmail.com](mailto:roman.martinez.daniel@gmail.com) or just make a pull request.
 
 The official documentation can be found here: [https://docs.akeneo.com/latest/index.html](https://docs.akeneo.com/latest/index.html)
 :::

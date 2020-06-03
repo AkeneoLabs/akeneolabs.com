@@ -21,6 +21,7 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Get Started', link: '/get-started/' },
+            { text: 'About the Author', link: 'https://danielromanmartinez.com/'},
         ],
         sidebar: {
             '/api/': getApiSidebar(),
