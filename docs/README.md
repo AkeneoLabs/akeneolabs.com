@@ -1,14 +1,33 @@
 ---
 home: true
-heroImage: https://cdn-image.tsanfer.xyz/img/vuepress_githubpages_travisCI.svg
-actionText: Get started quickly →
-actionLink: /pages/thinking.md
-features:
-- title: Simplicity first
-  details: with Markdown A centric project structure with minimal configuration to help you focus on writing.
-- title: Vue drive
-  details: enjoy Vue + webpack Development experience in Markdown Use Vue Components, which can also be used Vue To develop custom themes.
-- title: High Performance
-  details: VuePress Generate static for pre-rendering of each page HTML，Also, when the page is loaded, it will act as SPA Function.
-footer: MIT Licensed | Copyright © 2020 Tsanfer
+heroImage: /akeneo-labs.png
+actionText: Get Started →
+actionLink: /get-started/
+footer: MIT Licensed | Copyright © 2020-present Dani Roman
 ---
+
+<div style="text-align: center">
+  <Bit/>
+</div>
+
+<div class="features">
+  <div class="feature">
+    <h2>Step by step</h2>
+    <p>Akeneo can be hard to understand, you will know what do you need to work with Akeneo</p>
+  </div>
+  <div class="feature">
+      <h2>With examples</h2>
+      <p>You will see some examples to try it and download it in case that you need it</p>
+    </div>
+  <div class="feature">
+    <h2>Updated</h2>
+    <p>This documentation will be updated by Dani Roman. Actually</p>
+  </div>
+  
+</div>
+
+::: warning NOTE
+This is a beta documentation, you will find some grammar errors and so on. If you find something wrong, email me: [roman.martinez.daniel@gmail.com](roman.martinez.daniel@gmail.com)
+
+The official documentation can be found in [https://docs.akeneo.com/latest/index.html](https://docs.akeneo.com/latest/index.html)
+:::
