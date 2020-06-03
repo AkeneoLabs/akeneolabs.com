@@ -20,7 +20,7 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Getting Started', link: '/getting-started/' },
+            { text: 'Get Started', link: '/get-started/' },
         ],
         sidebar: {
             '/api/': getApiSidebar(),
