@@ -21,9 +21,8 @@ footer: MIT Licensed | Copyright © 2020-present Dani Roman
     </div>
   <div class="feature">
     <h2>Updated</h2>
-    <p>This documentation will be updated by Dani Roman. Actually is in beta.</p>
-  </div>
-  
+    <p>This documentation will be updated by [Dani Roman](https://danielromanmartinez.com/). NOTE: Actually this documentation is in beta.</p>
+  </div>  
 </div>
 
 ::: warning NOTE
