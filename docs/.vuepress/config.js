@@ -29,13 +29,13 @@ module.exports = {
         smoothScroll: true,
     },
     plugins: [
-        '@vuepress/last-updated',
-        '@vuepress/back-to-top',
-        'vuepress-plugin-nprogress',
-        '@vuepress/google-analytics',
+        ['@vuepress/last-updated'],
+        ['@vuepress/back-to-top', true],
+        ['vuepress-plugin-nprogress'],
+        ['@vuepress/google-analytics',
         {
             'ga': 'UA-77531775-2'
-        }
+        }]
     ]
 }
 
