@@ -31,7 +31,11 @@ module.exports = {
     plugins: [
         '@vuepress/last-updated',
         '@vuepress/back-to-top',
-        'vuepress-plugin-nprogress'
+        'vuepress-plugin-nprogress',
+        '@vuepress/google-analytics',
+        {
+            'ga': 'UA-77531775-2'
+        }
     ]
 }
 
