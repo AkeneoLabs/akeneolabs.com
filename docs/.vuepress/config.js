@@ -1,6 +1,6 @@
 let ogprefix = 'og: https://akeneolabs.com'
-let title = 'Akeneo Labs - Documentation about Akeneo'
-let description = 'Documentation about Akeneo with some downloadable examples and step by step tutorials'
+let title = 'Akeneo Labs'
+let description = 'Documentation about Akeneo'
 let color = '#82549d'
 let author = 'Dani Roman'
 let website = 'https://akeneolabs.com'
