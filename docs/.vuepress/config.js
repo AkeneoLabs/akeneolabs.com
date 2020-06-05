@@ -1,10 +1,10 @@
 let ogprefix = 'og: https://akeneolabs.com'
-let title = 'Akeneo Labs'
-let description = 'Documentation about Akeneo'
+let title = 'Akeneo Labs - Documentation about Akeneo'
+let description = 'Documentation about Akeneo with some downloadable examples and step by step tutorials'
 let color = '#82549d'
 let author = 'Dani Roman'
 let website = 'https://akeneolabs.com'
-let logo = 'https://akeneolabs.com/akeneo-labs.png';
+let logo = 'https://akeneolabs.com/akeneo-labs.jpg';
 
 module.exports = {
     locales: {
